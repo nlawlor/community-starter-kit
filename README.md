@@ -5,10 +5,11 @@ A GitHub App built with probot that celebrates new user activity within your rep
 * the app does thing 1
 * the app does thing 2
 
-FEATURES PLACEHOLDER
+Welcome new users with maintainer defined comments the first time your users:
 
-* good for thing 1
-* good for thing 2
+* Create a new issue
+* Open a new pull request
+* Merge their first pull request
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
